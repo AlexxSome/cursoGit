@@ -1,0 +1,3 @@
+this is a text plain file for course of git
+
+second line
