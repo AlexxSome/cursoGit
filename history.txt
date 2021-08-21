@@ -1,3 +1,5 @@
 this is a text plain file for course of git
 
+I'm Alex Soto Méndez
+
 second line
